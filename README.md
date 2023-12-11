@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @egapermana24
-- 👀 I’m interested in web development
+- 👀 I’m interested in web and multi-platform app development
 - 🌱 I’m currently learning php language
 - 💞️ I’m looking to collaborate on everywhere
 - 📫 How to reach me, my email is permanaega677@gmail.com, my instagram is @ega.per_mana, and my FB is Ega Permana.
