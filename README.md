@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ega Permana
 - 👀 I’m interested in Android, web and multi-platform app development
-- 🌱 I’m currently learning php, js and dart language
+- 🌱 I’m currently learning kotlin, php, js and dart language
 - 💞️ I’m looking to collaborate on everywhere
 - 📫 How to reach me, my email is permanaega677@gmail.com.
 
